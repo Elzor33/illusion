@@ -9,7 +9,7 @@
 }
 
 PBL_APP_INFO(MY_UUID,
-             "Illusion", "Desmond Brand",
+             "MazeClock", "Elzor",
              1, 0, /* App version */
              DEFAULT_MENU_ICON,
              APP_INFO_WATCH_FACE);
