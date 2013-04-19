@@ -1,4 +1,4 @@
-Illusion watchface
+MazeClock watchface
 ==================
 
 This is a custom watchface for the Pebble smart watch. [Download it][0].
@@ -15,6 +15,11 @@ direction of the lines.
 Thanks to [RichardG][2] for the assets. Based on the [Kisai Optical Illusion 
 watch from TokyoFlash][1].
 
-[0]: https://s3.amazonaws.com/dmnd-public/pebble/illusion.pbw
+The only difference between this one and the one from RichardG is the position 
+of the numbers (Centered) and their font. The lines are also thiker.
+
+I did this to get some C experience, please be kind if there is some bugs.
+
+[0]: 
 [1]: http://www.tokyoflash.com/en/watches/kisai/optical_illusion/
-[2]: http://www.mypebblefaces.com/view?fID=39&aName=richardg&pageTitle=Illusion&auID=21
+[2]: http://www.mypebblefaces.com/view?fID=286&aName=Elzor&pageTitle=MazeClock&auID=6
