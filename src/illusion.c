@@ -48,8 +48,8 @@ void set_container_image(BmpContainer *bmp_container, const int resource_id,
   layer_add_child(&window.layer, &bmp_container->layer.layer);
 }
 
-const int XS[] = {17, 77};
-const int YS[] = {4, 94};
+const int XS[] = {12, 84};
+const int YS[] = {11, 95};
 
 void set_time(unsigned short display_hour, unsigned short display_min) {
   // hours
